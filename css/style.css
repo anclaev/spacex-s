@@ -73,6 +73,7 @@ body {
   width: 90%;
   margin: auto;
   height: 750px;
+  z-index: -99;
 }
 
 .features {
@@ -263,4 +264,3 @@ body {
 ::-webkit-resizer {
   background-color: #666;
 }
-
